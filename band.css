@@ -8,4 +8,9 @@ testimonial-author img {
 testimonial-author h4 {
     font-size: 1.1rem;
     margin-bottom: 0.3rem;
+.testimonial-author p {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
 }
+
+
